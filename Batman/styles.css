@@ -49,8 +49,10 @@ dd {
 
 footer {
     background-color: #005677;
+    display: block;
     color: #fff;
     text-align: center;
     letter-spacing: 5px;
     text-transform: uppercase;
 }
+
