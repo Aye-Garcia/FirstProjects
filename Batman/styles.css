@@ -1,0 +1,56 @@
+/* Estilos generales */
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+} 
+
+/* Header */
+
+header {
+    background-color: #e5e5e5;
+    text-align: center;
+}
+
+h1, h2 {
+    background-color: #c4c4c4;
+    color: #005677;
+    letter-spacing: 15px;
+    text-transform: uppercase;
+    padding: 10px;
+}
+h1 {
+    font-size: 35px;   
+}
+
+/* Main */
+
+.container {
+    margin: 60px auto;
+    max-width: 70%;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+span {
+    font-weight: 700;
+}
+.personal span {
+font-style: italic;
+}
+
+dd {
+    margin-left: 80px;
+}
+
+/* Footer */
+
+
+footer {
+    background-color: #005677;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
