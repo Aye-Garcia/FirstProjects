@@ -1,6 +1,14 @@
-# Frontend1 
-<h4> https://aye-garcia.github.io/Frontend1/LemonPie </h4>
+# Frontend First Steps
 
-<h4> https://aye-garcia.github.io/Frontend1/pet </h4>
 
-<h4> https://aye-garcia.github.io/Frontend1/Batman </h4>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="25" height="25" align="center"><img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="25" height="25" align="center"> ▫ https://aye-garcia.github.io/Frontend1/LemonPie ▫
+
+---
+
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="25" height="25" align="center"><img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="25" height="25" align="center"> ▫ https://aye-garcia.github.io/Frontend1/Batman ▫
+
+---
+
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="25" height="25" align="center"><img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="25" height="25" align="center"> ▫ https://aye-garcia.github.io/Frontend1/pet ▫
+
+
