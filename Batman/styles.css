@@ -5,10 +5,40 @@ body {
 } 
 
 /* Header */
+button {
+    margin: 15px;
+    position:relative;
+    float:right;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #666;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+  }
+  
+  button:hover {background-color: #005677}
+  
+  button:active {
+    background-color: black;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+.dark{
+    background-color: black;
+    color: #FAFAFA;
+  }
 
 header {
     background-color: #e5e5e5;
     text-align: center;
+    margin: 0 170px;
 }
 
 h1, h2 {
@@ -23,6 +53,8 @@ h1 {
 }
 
 /* Main */
+
+
 
 .container {
     margin: 60px auto;
@@ -49,8 +81,10 @@ dd {
 
 footer {
     background-color: #005677;
+    display: block;
     color: #fff;
     text-align: center;
     letter-spacing: 5px;
     text-transform: uppercase;
 }
+
