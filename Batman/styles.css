@@ -5,6 +5,10 @@ body {
 } 
 
 /* Header */
+img {
+    margin-left: 100px;
+}
+
 button {
     margin: 15px;
     position:relative;
